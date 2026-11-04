@@ -40,7 +40,7 @@ C++ solvers, models and utilities for OpenFOAM v9: multiphase solver family for 
 - Led the simulation work package of a publicly funded research project with industrial pump manufacturers.
 
 #### Publication
-C. Park, M. Mansour, D. Thévenin, R. Skoda. *Passive Mitigation of Gas Accumulation by Surface Structures in Diverging Flow Channels: A Three-Dimensional Two-Phase Flow Simulation Study.* [SSRN preprint, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7649860)
+C. Park, M. Mansour, D. Thévenin, R. Skoda. *Passive Mitigation of Gas Accumulation by Surface Structures in Diverging Flow Channels: A Three-Dimensional Two-Phase Flow Simulation Study.* [SSRN preprint, 2026](http://dx.doi.org/10.2139/ssrn.7649860)
 
 #### Tools
 OpenFOAM (C++ development) · ANSYS Fluent · Python (NumPy, SciPy, pandas, PyVista) · MATLAB · Linux / SLURM HPC · Git · ICEM CFD, Pointwise · LaTeX / pgfplots
